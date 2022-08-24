@@ -12,10 +12,38 @@ body{
     color: #36454f;
 }
 
+h1{
+    font-family: Oxygen, sans-serif;
+    color: #fd7014;
+    letter-spacing: 5px;
+    font-size: xx-large;
+} 
+
+
 #logo{
-    height:200px;
-    width: 200px;
-    background: url('../images/Color-logo-with-backgrounda.jpg');
+   font-family: Oxygen, sans-serif;
+   color: #36454f;
+   float: left;
+   font-size: 300%;
+}
+
+#logo-image{
+    float: left;
+    background: url('../images/Color-logo-with-background.png');
+}
+
+/*  nav menu   */
+
+#menu{
+    font-size: 150%;
+    letter-spacing: 5px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 50px;
+
 }
 
 /* hero image  */
@@ -23,4 +51,6 @@ body{
     height:510px;
     width:100%;
     background: url('../images/horsepower-combo-image.jpg') no-repeat center center;
+    border: solid 20px 20px 20px 20px;
+    border-color: #fd7014;
 }
