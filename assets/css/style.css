@@ -11,3 +11,16 @@ body{
     font-weight: 400;
     color: #36454f;
 }
+
+#logo{
+    height:200px;
+    width: 200px;
+    background: url('../images/Color-logo-with-backgrounda.jpg');
+}
+
+/* hero image  */
+#hero-image{
+    height:510px;
+    width:100%;
+    background: url('../images/horsepower-combo-image.jpg') no-repeat center center;
+}
