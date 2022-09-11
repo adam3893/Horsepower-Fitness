@@ -17,6 +17,9 @@ h1{
     color: #fd7014;
     letter-spacing: 5px;
     font-size: xx-large;
+    text-decoration: solid;
+
+    padding: 10px;
 } 
 
 
@@ -53,6 +56,13 @@ h1{
     background: url('../images/horsepower-combo-image.jpg') no-repeat center center;
     border: solid 20px 20px 20px 20px;
     border-color: #fd7014;
+}
+
+h2{
+    color: #36454f;
+    text-align: center;
+    font-size: xx-large;
+    text-transform: uppercase;
 }
 
 .social-networks{
