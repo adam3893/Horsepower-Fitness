@@ -54,3 +54,18 @@ h1{
     border: solid 20px 20px 20px 20px;
     border-color: #fd7014;
 }
+
+.social-networks{
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 150%;
+    margin: 1%;
+    padding: 5%;
+    color: #36454f;
+}
